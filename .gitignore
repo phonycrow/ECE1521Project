@@ -1,0 +1,5 @@
+celeba/
+celeba-hq-deltas/
+celebahq/
+**.pyc
+**.tfrecords
