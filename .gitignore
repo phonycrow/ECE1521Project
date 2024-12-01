@@ -1,5 +1,10 @@
 celeba/
 celeba-hq-deltas/
 celebahq/
+synthetic_images/
+FairFace/examples/
+FairFace/test/
 **.pyc
 **.tfrecords
+**.pt
+**.dat
