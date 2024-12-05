@@ -2,8 +2,11 @@ celeba/
 celeba-hq-deltas/
 celebahq/
 synthetic_images/
+train/
+test/
 FairFace/examples/
 FairFace/test/
+results/
 **.pyc
 **.tfrecords
 **.pt

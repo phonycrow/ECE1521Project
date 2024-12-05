@@ -15,5 +15,5 @@ def interpolate(lr_img, scale_factor):
     for i in range(c):
         rbs = scipy.interpolate.RectBivariateSpline(h_range, w_range, lr_img[:, :, i])
         hr_img[:, :, i] = rbs(new_h_range, new_w_range)
-    
-    return hr_img
+
+    return np.uint8(hr_img)
