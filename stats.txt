@@ -1,0 +1,8 @@
+all:
+[2024-12-05 14:03:13] Evaluate_00: epoch = 0020 train time = 1163 s train loss = 0.002096 test loss = 0.002120
+
+half:
+[2024-12-05 14:30:08] Evaluate_00: epoch = 0020 train time = 594 s train loss = 0.002369 test loss = 0.002432
+
+half+repetition:
+[2024-12-05 15:39:00] Evaluate_00: epoch = 0020 train time = 1166 s train loss = 0.001889 test loss = 0.002295
